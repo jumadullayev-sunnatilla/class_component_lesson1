@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header svg {
+  font-size: 30px;
+}
+.header svg:hover {
+  color: red;
+  cursor: pointer;
+}
+.test_Play svg {
+  color: white;
+  background: transparent;
+  font-size: 60px;
+}
